@@ -1237,6 +1237,12 @@
   /*.nav-item:hover .dropdown-menu {
       display: block !important;
     }*/
+  .awds-margin {
+    margin-right: 3rem !important;
+  }
+  .awds-mai {
+    margin-right: 1rem !important;
+  }
   .tems {
     overflow-y: scroll;
     max-height: 100vh;

@@ -79,25 +79,25 @@ const ConfigurationCode = () => {
 
               <div class="col-lg-4 text-white">
                 <div className="awards-titile">
-                  <h1 className="me-5">Awards</h1>
+                  <h1 className="awds-margin">Awards</h1>
 
                   <div class="vert"> </div>
                   <div className="line-image">
                     <Image src={awrds} className="awrds-img" alt="" />
                   </div>
-                  <div className="mt-3 me-3">
+                  <div className="mt-3 awds-mai">
                     <h2>Top 3 blockchain</h2>
                     <h2>Startups 2022</h2>
                     <p>Appengine.ai</p>
                     <div class="lines"></div>
                   </div>
-                  <div class="mt-5 me-3">
+                  <div class="mt-5 awds-mai">
                     <h2>Top Startups of</h2>
                     <h2>Asia 2021</h2>
                     <p>Beststartups.asia</p>
                     <div class="lines hii"></div>
                   </div>
-                  <div className="mt-5 me-3">
+                  <div className="mt-5 awds-mai">
                     <h2>Top Indian</h2>
                     <h2>Startups 2020</h2>
                     <p>Best in Tech awards</p>
