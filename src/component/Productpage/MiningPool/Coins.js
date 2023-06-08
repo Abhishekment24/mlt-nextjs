@@ -18,7 +18,7 @@ const Coins = ({ selectedAsset, handleAssets }) => {
         </p>
       </div>
       <div width="90%" className="RightDiv texting">
-        <Image className="" src={FifthTabImg} alt="..." />
+        <Image className="" src={FifthTabImg} alt="FifthTabImg" />
       </div>
     </>,
 
@@ -32,7 +32,7 @@ const Coins = ({ selectedAsset, handleAssets }) => {
         </p>
       </div>
       <div className="RightDiv texting">
-        <Image className="" src={SecondTabImg} alt="..." />
+        <Image className="" src={SecondTabImg} alt="SecondTabImg" />
       </div>
     </>,
 
@@ -46,7 +46,7 @@ const Coins = ({ selectedAsset, handleAssets }) => {
         </p>
       </div>
       <div className="RightDiv texting">
-        <Image className="" src={ThirdTabImg} alt="..." />
+        <Image className="" src={ThirdTabImg} alt="ThirdTabImg" />
       </div>
     </>,
 
@@ -60,7 +60,7 @@ const Coins = ({ selectedAsset, handleAssets }) => {
         </p>
       </div>
       <div className="RightDiv texting">
-        <Image className="" src={FourthTabImg} alt="..." />
+        <Image className="" src={FourthTabImg} alt="FourthTabImg" />
       </div>
     </>,
 

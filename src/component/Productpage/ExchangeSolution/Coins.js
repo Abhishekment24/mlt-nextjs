@@ -18,7 +18,7 @@ const Coins = ({ selectedAsset, handleAssets }) => {
         </p>
       </div>
       <div width="90%" className="RightDiv">
-      <Image className="owls-image" src={FifthTabImg} alt="..." />
+      <Image className="owls-image" src={FifthTabImg} alt="FifthTabImg" />
       </div>
     </>,
 
@@ -35,7 +35,7 @@ const Coins = ({ selectedAsset, handleAssets }) => {
         </p>
       </div>
       <div className="RightDiv">
-      <Image className="owls-image" src={SecondTabImg} alt="..." />
+      <Image className="owls-image" src={SecondTabImg} alt="SecondTabImg" />
       </div>
     </>,
 
@@ -50,7 +50,7 @@ const Coins = ({ selectedAsset, handleAssets }) => {
         </p>
       </div>
       <div className="RightDiv texting">
-      <Image className="owls-image" src={ThirdTabImg} alt="..." />
+      <Image className="owls-image" src={ThirdTabImg} alt="ThirdTabImg" />
       </div>
     </>,
 
@@ -68,7 +68,7 @@ const Coins = ({ selectedAsset, handleAssets }) => {
         </p>
       </div>
       <div className="RightDiv texting">
-      <Image className="owls-image" src={FourthTabImg} alt="..." />
+      <Image className="owls-image" src={FourthTabImg} alt="FourthTabImg" />
       </div>
     </>,
 
@@ -85,7 +85,7 @@ const Coins = ({ selectedAsset, handleAssets }) => {
         </p>
       </div>
       <div className="RightDiv texting">
-      <Image className="owls-image" src={FirstTabImg} alt="..." />
+      <Image className="owls-image" src={FirstTabImg} alt="FirstTabImg" />
       </div>
     </>,
   ];
