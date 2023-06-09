@@ -22,19 +22,19 @@ const TrustedPartners = () => {
                 </p>
                 <div className="cards-flex">
                   <div className="ImgContainer">
-                  <Image  className="owls-image" src={ImgOne} alt="..." />
+                  <Image  className="owls-image" src={ImgOne} alt="ImgOne" />
                   </div>
                   <div className="ImgContainer">
-                  <Image  className="owls-image" src={ImgTwo} alt="..." />
+                  <Image  className="owls-image" src={ImgTwo} alt="ImgTwo" />
                   </div>
                   <div className="ImgContainer">
-                  <Image  className="owls-image" src={ImgThree} alt="..." />
+                  <Image  className="owls-image" src={ImgThree} alt="ImgThree" />
                   </div>
                   <div className="ImgContainer">
-                  <Image  className="owls-image" src={ImgFour} alt="..." />
+                  <Image  className="owls-image" src={ImgFour} alt="ImgFour" />
                   </div>
                   <div className="ImgContainer">
-                  <Image  className="owls-image" src={ImgFive} alt="..." />
+                  <Image  className="owls-image" src={ImgFive} alt="ImgFive" />
                   </div>
                 </div>
               </div>

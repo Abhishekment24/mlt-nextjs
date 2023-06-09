@@ -51,10 +51,13 @@
     max-width: 1433px;
   }
 }
-@media (max-width: 1161px) {
+@media (min-width: 992px) and (max-width: 1093px) {
   /*.one-block {
     min-height: 480px;
   }*/
+  .securt-blocks-4 .box-shadow-card {
+    min-height: 285px !important;
+  }
 }
 @media (max-width: 1700px) {
   .servis {
@@ -402,6 +405,10 @@
     }*/
 }
 @media (min-width: 992px) and (max-width: 1150px) {
+  .t-f-block {
+    
+    min-height: 442px;
+  }
   .securty-block-4 .box-shadow-card {
     min-height: 355px !important;
   }
@@ -432,11 +439,17 @@
   .securty-block-4 .box-shadow-card {
     min-height: 355px !important;
   }
+  .box-shadow-cards {
+    min-height: 530px;
+}
   .boxs{
     margin: 15px;
   }
   .one-block {
     min-height: 442px;
+  }
+  .onbl {
+    min-height: 0px !important;
   }
   .onsetp {
     min-height: 184px;
@@ -520,7 +533,7 @@
     height: 90%;
   }
   .location-offices p {
-    font-size: 14px;
+    font-size: 14px !important;
   }
 }
 @media (max-width: 1024px) {
@@ -1308,8 +1321,8 @@
     box-shadow: 0 0 0 1px rgb(53 72 91 / 10%), 0 3px 2px rgb(0 0 0 / 4%),
       0 7px 5px rgb(0 0 0 / 2%), 0 13px 10px rgb(0 0 0 / 2%),
       0 22px 17px rgb(0 0 0 / 2%) !important;
-    min-height: 299px;
-    padding: 26px 22px;
+      min-height: 384px;
+      padding: 30px;
   }
   .frm-dev {
     margin-left: 12px;
@@ -1914,9 +1927,7 @@
   }
 }
 @media (max-width: 740px) {
-  .row.row-after {
-    padding: 3rem 20px 3rem 50px !important;
-  }
+  
   .securt-blocks-4 .box-shadow-card {
     min-height: 23px;
   }
@@ -1941,9 +1952,7 @@
   .diffvs {
     height: 380px;
   }
-  .box-shadow-cards {
-    min-height: 353px;
-  }
+  
   .navbar .navbar-nav .dropdown-item {
     font-size: 10px !important;
   }
@@ -2032,6 +2041,9 @@
   }
 }
 @media (max-width: 767px) {
+  .row.row-after {
+    padding: 3rem 20px 3rem 50px !important;
+  }
   .home .home-header-content h1 {
     min-height: 180px;
     font-size: 50px;
@@ -2325,9 +2337,7 @@
   .height-boxes-block {
     height: 368px;
   }
-  .location-offices p {
-    font-size: 11px !important;
-  }
+  
   .categories .category-link {
     background-color: #090909;
     align-items: center;
@@ -2507,14 +2517,14 @@
     min-height: 261px;
   }
 }
-@media (min-width: 992px) and (max-width: 1044px) {
+@media (min-width: 992px) and (max-width: 1075px) {
   .token-benifit-box {
-    min-height: 285px;
-  }
+    min-height: 314px;
+}
 }
 @media (min-width: 1176px) {
   .token-benifit-box {
-    min-height: 237px;
+    min-height: 268px;
   }
 }
 @media (min-width: 480px) {
@@ -2546,6 +2556,9 @@
 }
 
 @media (min-width: 992px) and (max-width: 1079px) {
+  .location-offices p {
+    font-size: 12px !important;
+  }
   .dev-tilte {
     display: grid;
     grid-template-columns: 248px 1fr;
@@ -2575,6 +2588,7 @@
   .min-boxes {
     min-height: 200px;
   }
+ 
   .abouts-benifits-box {
     border: 1px solid #242b38;
     border-radius: 10px;
@@ -2789,15 +2803,15 @@
     left: 17px;
   }
 }
-@media (max-width: 524px) {
+@media (min-width: 1080px) {
   .single-servi-item {
-    height: 135px;
-  }
+    height: 205px !important;
+}
 }
 @media (min-width: 525px) and (max-width: 767px) {
-  .single-servi-item {
+  /*.single-servi-item {
     height: 105px;
-  }
+  }*/
 }
 @media (min-width: 768px) and (max-width: 1188px) {
   h1 {
@@ -2977,9 +2991,16 @@
 }
 
 @media (max-width: 991px) {
+  .cards-flex {
+   
+    margin: 15px 0;
+}
   .headerhome::before {
     opacity: 0.4;
     left: -196px;
+  }
+  .row.row-after {
+    padding-right: 88px ;
   }
   .ment-slotion .nav-pills .nav-link:hover {
     color: #17a2f1 !important;
@@ -3119,4 +3140,29 @@ p {
   font-size: 16px !important;
   line-height: 25px;
 }
+}
+
+@media (min-width: 992px) and (max-width: 1030px) {
+  .for-dev {
+    height: 242px !important;
+  }
+  
+}
+@media (min-width: 1060px) and (max-width: 1124px) {
+  
+  .box-shadow-cards {
+    min-height: 487px;
+}
+}
+@media (min-width: 1125px) and (max-width: 1215px) {
+  
+  .box-shadow-cards {
+    min-height: 430px;
+}
+}
+@media (min-width: 992px) and (max-width: 1059px) {
+  .box-shadow-cards {
+    min-height: 535px !important;
+}
+  
 }

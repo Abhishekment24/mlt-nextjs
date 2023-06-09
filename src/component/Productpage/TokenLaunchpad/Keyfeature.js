@@ -25,7 +25,7 @@ const Keyfeature = () => {
               </div>
             </div>
             <div className="col-lg-12 text-center">
-              <Image src={Tbenofits} alt="Tbenofits" />
+              <Image className="img-fluid" src={Tbenofits} alt="Tbenofits" />
             </div>
           </div>
           <div className="row pt-5">

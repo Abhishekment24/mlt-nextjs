@@ -721,7 +721,7 @@ const Keyfeature = () => {
                     <Image  className="" src={Bs1} alt="" />
                   </div>
                   <div className="step6">
-                    <h4 className="fort-steps ml-3">
+                    <h4 className="fort-steps ms-3">
                       Step 6: Test the Product
                     </h4>
                   </div>
@@ -814,7 +814,7 @@ const Keyfeature = () => {
                     <Image  className="" src={Bs1} alt="" />
                   </div>
                   <div className="step6">
-                    <h4 className="fort-steps ml-3">
+                    <h4 className="fort-steps ms-3">
                       Step 8: Application Support.
                     </h4>
                   </div>

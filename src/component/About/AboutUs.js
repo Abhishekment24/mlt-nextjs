@@ -49,7 +49,7 @@ const AboutUs = () => {
                 </span>
               </div>
               <div className="col-lg-6">
-              <Image className="owls-image" src={AboutBanner} alt="" />
+              <Image className="img-fluid" src={AboutBanner} alt="AboutBanner" />
               </div>
             </div>
           </div>
@@ -88,7 +88,7 @@ const AboutUs = () => {
             <div className="row mt-5 justify-content-center">
               <div className="col-lg-5">
                 <div className="abouts-withus-block ">
-                  <Image  src={Start} alt="" />
+                  <Image  src={Start} alt="Start" />
                   <div>
                     <h2 className="mt-2">Start</h2>
                     <p className="withs">
@@ -100,7 +100,7 @@ const AboutUs = () => {
               </div>
               <div className="col-lg-5">
                 <div className="abouts-withus-block abouts-withus-block-1">
-                  <Image  src={Ask} alt="" />
+                  <Image  src={Ask} alt="Ask" />
                   <div>
                     <h2 className="mt-2">Ask</h2>
                     <p className="withs">
@@ -111,7 +111,7 @@ const AboutUs = () => {
               </div>
               <div className="col-lg-5">
                 <div className="abouts-withus-block abouts-withus-block-2">
-                  <Image  src={Learn} alt="" />
+                  <Image  src={Learn} alt="Learn" />
                   <div>
                     <h2 className="mt-2">Learn</h2>
                     <p className="withs">
@@ -124,7 +124,7 @@ const AboutUs = () => {
               </div>
               <div className="col-lg-5">
                 <div className="abouts-withus-block abouts-withus-block-3">
-                  <Image  src={Trade} alt="" />
+                  <Image  src={Trade} alt="Trade" />
                   <div>
                     <h2 className="mt-2">Trade</h2>
                     <p className="withs">
@@ -160,7 +160,7 @@ const AboutUs = () => {
                 })}
               </div>
               <div className="col-lg-6 text-center ">
-                <Image className="owls-image" src={Tbenofits} alt="Tbenofits" />
+                <Image className="img-fluid" src={Tbenofits} alt="Tbenofits" />
               </div>
             </div>
           </div>
@@ -191,7 +191,7 @@ const AboutUs = () => {
               </div>
               <div className="col-lg-8">
                 <div className="where-offices">
-                  <Image className="owls-image" src={global} alt="" />
+                  <Image className="img-fluid" src={global} alt="global" />
                 </div>
               </div>
             </div>
@@ -218,7 +218,7 @@ const AboutUs = () => {
               </div>
               <div className="col-lg-4 text-center">
                 <div className="vs">
-                  <Image className="owls-image" src={Tbenofitis} alt="" />
+                  <Image className="img-fluid" src={Tbenofitis} alt="Tbenofitis" />
                 </div>
               </div>
               <div className="col-lg-4 mt-5">
@@ -448,7 +448,7 @@ const AboutUs = () => {
                   target="_blank"
                   rel="noopener noreferrer"
                 >
-                  <Image className="img-fluid oilso"  src={CEOImg} alt="..." />
+                  <Image className="img-fluid oilso"  src={CEOImg} alt="CEOImg" />
                 </Link>
                 <h3 className="mt-4">Ujjwal Sahay</h3>
                 <p className="paret">Founder & MD</p>

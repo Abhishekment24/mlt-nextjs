@@ -111,7 +111,7 @@ const teamjoin = () => {
               </div>
             </div>
             <div className="col-lg-5 text-center">
-              <Image className="comp-imgs" src={Imagesings} alt="" />
+              <Image className="img-fluid" src={Imagesings} alt="Imagesings" />
             </div>
           </div>
         </div>
@@ -149,7 +149,7 @@ const teamjoin = () => {
             </div>
             <div className="col-lg-4 text-white">
               <div className="text-center">
-                <Image className="gols-imgs" src={Earth} alt="" />
+                <Image className="img-fluid" src={Earth} alt="Earth" />
               </div>
             </div>
             <div className="col-lg-4 text-white">

@@ -27,7 +27,7 @@ const TokenLaunchpad = () => {
               <div className="row align-items-center">
                 <div className="col-lg-6 text-center">
                   <div className="nft-mar">
-                    <Image className="bitc-img" src={Nft} alt="" />
+                    <Image className="bitc-img" src={Nft} alt="Nft" />
                   </div>
                 </div>
                 <div className="col-lg-6 text-white">

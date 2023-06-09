@@ -39,7 +39,7 @@ const QuickTour = () => {
                <Image className="otc-imd owls-image" src={ImgOne} alt="..." />
             </div>
           </div>
-          <div className="row justify-content-center py-5">
+          <div className="row justify-content-center ">
             <div className="col-lg-7 text-center">
                <Image className="otc-imd owls-image" src={ImgTwo} alt="..." />
             </div>
@@ -74,7 +74,7 @@ const QuickTour = () => {
                <Image className="otc-imd owls-image" src={ImgThree} alt="..." />
             </div>
           </div>
-          <div className="row justify-content-center py-5">
+          <div className="row justify-content-center ">
             <div className="col-lg-7 text-center">
                <Image className="otc-imd owls-image" src={ImgFour} alt="..." />
             </div>

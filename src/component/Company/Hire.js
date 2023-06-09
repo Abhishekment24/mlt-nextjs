@@ -45,7 +45,7 @@ const Hire = () => {
                           Join Team
                         </button>
                       </div>
-                      <Image src={Compan} alt="" />
+                      <Image className="img-fluid" src={Compan} alt="Compan" />
                     </div>
                   </div>
                 </div>

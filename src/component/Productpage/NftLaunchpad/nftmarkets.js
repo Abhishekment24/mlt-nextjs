@@ -101,7 +101,7 @@ const Nftmarkets = () => {
             </div>
             <div className="col-lg-6">
               <div className="boxs">
-                <div className="one-block pink">
+                <div className="one-block pink onbl ">
                   <div className="one-block-content">
                     <h2>
                       NFT Makes an Investor’s Ownership of an Asset More Secure.
@@ -116,7 +116,7 @@ const Nftmarkets = () => {
                 </div>
               </div>
               <div className="boxs pt-4">
-                <div className="one-block green">
+                <div className="one-block green onbl ">
                   <div className="one-block-content">
                     <h2>
                       It Makes it Easy to Prove the Authenticity of a Digital

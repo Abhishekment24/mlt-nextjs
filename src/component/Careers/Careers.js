@@ -15,7 +15,7 @@ const Careers = () => {
       </Head>
 
       <HeaderCareer />
-      <section className="location-offices py-5">
+      <section className=" py-5">
         <div className="container">
           <div className="row mb-4">
             <div className="col-lg-12 text-center">
@@ -31,7 +31,7 @@ const Careers = () => {
               <div className="row">
                 <div className="col-lg-3 mb-3">
                   <div className="box-shadow-cards">
-                    <h4 className="">Diversity & Inclusion at Work</h4>
+                    <h3 className="">Diversity & Inclusion at Work</h3>
                     <p>
                       At Ment Tech, our goal is to create a positive and
                       welcoming work environment by promoting diversity and
@@ -41,7 +41,7 @@ const Careers = () => {
                 </div>
                 <div className="col-lg-3 mb-3">
                   <div className="box-shadow-cards">
-                    <h4 className="">Invest in Yourself </h4>
+                    <h3 className="">Invest in Yourself </h3>
                     <p>
                       Our platform is constructed with equity grants, allowing
                       you to have a share in our future success. For full-time
@@ -53,7 +53,7 @@ const Careers = () => {
                 </div>
                 <div className="col-lg-3 mb-3">
                   <div className="box-shadow-cards">
-                    <h4 className="">Continue to Grow </h4>
+                    <h3 className="">Continue to Grow </h3>
                     <p>
                       Uncover your preferred way of learning. Every year, you
                       will be allocated funds to fulfill your learning and
@@ -64,7 +64,7 @@ const Careers = () => {
                 </div>
                 <div className="col-lg-3 mb-3">
                   <div className="box-shadow-cards">
-                    <h4 className="">Having Fun at Work </h4>
+                    <h3 className="">Having Fun at Work </h3>
                     <p>
                       We believe that autonomy, self-direction, and a balanced
                       work-life balance are crucial for achieving great things.

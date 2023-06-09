@@ -2824,7 +2824,7 @@ a.team-block h3 {
 }
 
 .location-offices p {
-  font-size: 14px !important;
+  font-size: 16px !important;
 }
 
 .location-offices h3 {
@@ -2832,7 +2832,7 @@ a.team-block h3 {
 }
 
 .location-offices img.img-fluid {
-  min-height: 180px;
+  min-height: 188px;
 }
 
 .title-block p.text-normal {
@@ -5287,6 +5287,7 @@ select:focus-visible {
   font-family: "Open Sans", sans-serif;
   font-size: 19px;
   font-weight: 700;
+  text-align: left;
 }
 .dis-1 {
   border-bottom: 1px solid black !important;
@@ -5323,7 +5324,7 @@ select:focus-visible {
   position: relative;
   z-index: 1;
   display: block;
-  padding: 0px 30px;
+  padding:  30px;
   text-align: left;
   background-color: #fff;
   margin-top: 30px;
@@ -5332,7 +5333,7 @@ select:focus-visible {
   transition-duration: 0.4s;
   transition-property: opacity, transform;
   /* border: 1px solid #000; */
-  padding-top: 15px;
+  
   border-radius: 15px;
 }
 .ares-back {
@@ -5570,7 +5571,7 @@ a:hover.learns {
   background-color: #090909;
   align-items: center;
   display: flex;
-  min-height: 372px;
+  min-height: 396px;
   padding: 15px;
   position: relative;
   text-align: center;

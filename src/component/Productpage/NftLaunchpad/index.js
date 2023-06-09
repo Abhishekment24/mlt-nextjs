@@ -37,7 +37,7 @@ const Nftlaunchpad = () => {
                 </div>
                 <div className="col-lg-6 text-center">
                   <div className="nft-mar">
-                    <Image src={Nft} alt="" />
+                    <Image className="img-fluid" src={Nft} alt="Nft" />
                   </div>
                 </div>
               </div>

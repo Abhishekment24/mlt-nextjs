@@ -24,7 +24,7 @@ const BankingSolution = () => {
         <Header />
         <div className="container wide-block">
           <div className="row  align-items-center">
-            <div className="col-lg-6 text-white mt-5 mb-5">
+            <div className="col-lg-6 text-white mt-5">
               <h1 className="mb-4">Digital & Crypto Banking Solution</h1>
               <p className="">
                 Yes, that&apos;s correct. The adoption of digital banking services by
@@ -68,8 +68,8 @@ const BankingSolution = () => {
                 assets.
               </p>
             </div>
-            <div className="col-lg-6 mb-4 text-center">
-              <Image className="owls-image" src={DigitalImg} alt="" />
+            <div className="col-lg-6  text-center">
+              <Image className="owls-image" src={DigitalImg} alt="DigitalImg" />
             </div>
           </div>
         </div>

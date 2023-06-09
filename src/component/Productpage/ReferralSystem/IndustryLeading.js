@@ -14,8 +14,10 @@ const TheProblem = () => {
           </div>
         </div>
         <div className="row align-items-center">
-          <div className="col-lg-4 text-center">
-           <Image className="list-img-icons" src={ImgOne} alt="" />
+          <div className="col-lg-4 text-center mt-3">
+          <div className="one-setp">
+           <Image className="list-img-icons mt-2" src={ImgOne} alt="ImgOne" />
+           </div>
             <h3 className="mt-3"> Feel Free to Invite Your Friends</h3>
             <p>
               With this system, your friends can easily invite you to join the
@@ -23,7 +25,9 @@ const TheProblem = () => {
             </p>
           </div>
           <div className="col-lg-4 text-center mt-3">
-           <Image className="list-img-icons" src={ImgTwo} alt="" />
+          <div className="one-setp">
+           <Image className="list-img-icons" src={ImgTwo} alt="ImgTwo" />
+           </div>
             <h3 className="">Trade With Them</h3>
             <p>
               You earn a percentage of their escrow fees every time they buy
@@ -31,7 +35,9 @@ const TheProblem = () => {
             </p>
           </div>
           <div className="col-lg-4 text-center mt-3">
-           <Image className="list-img-icons" src={ImgThree} alt="" />
+          <div className="one-setp">
+           <Image className="list-img-icons" src={ImgThree} alt="ImgThree" />
+           </div>
             <h3 className="">Earn Money</h3>
             <p>
               Additionally, the earned funds in your affiliate wallet can be

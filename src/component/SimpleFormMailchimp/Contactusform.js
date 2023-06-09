@@ -83,23 +83,27 @@ const Contactusform = ({ status, message, className, onSubmitted }) => {
             <div className="row">
               <div className="col-lg-3 text-center mb-3">
                 <div className="bg-white rounded-2 box-shadow-card no-underline hover-grow">
+               
                   <Image className="img-fluid" src={IndiaOffice} alt="IndiaOffice" />
-                  <h4 className="mb-3 mt-3 pr-2 pl-2 h-line">
+                 
+                  <h4 className="mb-3 mt-3 pe-2 ps-2 h-line">
                     MENT TECH INDIA
                   </h4>
-                  <p className="pr-3 pl-3">
+                  <p className="ps-3 pe-3">
                     Annapurna Rd, Saraswati Nagar, Indore, Madhya Pradesh,
                     452001
                   </p>
+                 
                   <hr className="mb-0" />
+                 
                   <p className="p-3">Email: info@ment.tech</p>
                 </div>
               </div>
               <div className="col-lg-3 text-center mb-3">
                 <div className="bg-white rounded-2 box-shadow-card no-underline hover-grow">
                   <Image className="img-fluid" src={UsaOffice} alt="UsaOffice" />
-                  <h4 className="mb-3 mt-3 pr-2 pl-2 h-line">MENT TECH USA</h4>
-                  <p className="pr-3 pl-3">
+                  <h4 className="mb-3 mt-3 pe-2 ps-2 h-line">MENT TECH USA</h4>
+                  <p className="ps-3 pe-3">
                     5857 Owens Ave Suite 300 Carisbad, CA 92008
                   </p>
                   <hr className="mb-0" />
@@ -109,8 +113,8 @@ const Contactusform = ({ status, message, className, onSubmitted }) => {
               <div className="col-lg-3 text-center mb-3">
                 <div className="bg-white rounded-2 box-shadow-card no-underline hover-grow">
                   <Image className="img-fluid" src={UkOffice} alt="UkOffice" />
-                  <h4 className="mb-3 mt-3 pr-2 pl-2 h-line">MENT TECH UK</h4>
-                  <p className="pr-3 pl-3 mb-3">
+                  <h4 className="mb-3 mt-3 pe-2 ps-2 h-line">MENT TECH UK</h4>
+                  <p className="ps-3 pe-3 mb-3">
                     One Avenue, 23 Finsbury Circus, London, England, EC2M 7EA
                   </p>
                   <hr className="mb-0" />
@@ -120,10 +124,10 @@ const Contactusform = ({ status, message, className, onSubmitted }) => {
               <div className="col-lg-3 text-center mb-3">
                 <div className="bg-white rounded-2 box-shadow-card no-underline hover-grow">
                   <Image className="img-fluid" src={IOffice} alt="IOffice" />
-                  <h4 className="mb-3 mt-3 pr-2 pl-2 h-line">
+                  <h4 className="mb-3 mt-3 pe-2 ps-2 h-line">
                     MENT TECH IRELAND
                   </h4>
-                  <p className="pr-3 pl-3">
+                  <p className="ps-3 pe-3">
                     101, Monkstown Rd, Monkstown, Blackrock Co. Dublin, Ireland
                   </p>
                   <hr className="mb-0" />
@@ -138,8 +142,8 @@ const Contactusform = ({ status, message, className, onSubmitted }) => {
                     src={DOffice}
                     alt="DOffice"
                   />
-                  <h4 className="mb-3 mt-3 pr-2 pl-2 h-line">MENT TECH UAE</h4>
-                  <p className="pr-3 pl-3">We are Coming to Dubai Soon!</p>
+                  <h4 className="mb-3 mt-3 pe-2 ps-2 h-line">MENT TECH UAE</h4>
+                  <p className="ps-3 pe-3">We are Coming to Dubai Soon!</p>
                   <hr className="mb-0" />
                   <p className="p-3">Email: info@ment.tech</p>
                 </div>
