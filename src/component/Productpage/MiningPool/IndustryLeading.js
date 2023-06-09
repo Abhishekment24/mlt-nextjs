@@ -15,33 +15,44 @@ const TheProblem = () => {
             </div>
           </div>
           <div className="row align-items-center">
-            <div className="col-lg-4 text-center">
+            <div className="col-lg-4 text-center mt-3">
+            <div className="one-setp">
               <Image className="list-img-icons" src={ImgOne} alt="" />
-              <h3 className="mt-3">A safe & Stable Environment</h3>
+              
+              </div>
+              <h3 className="">A safe & Stable Environment</h3>
               <p>
                 We use cutting-edge technology to secure our mining operations
                 and prevent various types of attacks. Our unique mining pool
                 architecture guarantees stability for our clients.
               </p>
+            
             </div>
             <div className="col-lg-4 text-center mt-3">
+            <div className="one-setp">
               <Image className="list-img-icons" src={ImgTwo} alt="" />
-              <h3 className="mt-3">Transparent & Open</h3>
+             
+              </div>
+              <h3 className="">Transparent & Open</h3>
               <p>
                 Our mining solution uses advanced technology to ensure stable
                 operations and prevent various types of attacks. We offer a
                 unique mining pool architecture to achieve this.
               </p>
+             
             </div>
             <div className="col-lg-4 text-center mt-3">
+            <div className="one-setp">
               <Image className="list-img-icons" src={ImgThree} alt="" />
-              <h3 className="mt-3">Deploying Multiple Nodes</h3>
+              </div>
+              <h3 className="">Deploying Multiple Nodes</h3>
               <p>
                 We have a highly skilled technical team that provides stable
                 mining services around the clock, every day of the week. Our
                 deployment is global and covers multiple nodes, ensuring that
                 you have the best possible experience.
               </p>
+            
             </div>
           </div>
         </div>

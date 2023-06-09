@@ -9,7 +9,7 @@ import Image from "next/image";
 const Coins = ({ selectedAsset, handleAssets }) => {
   const data = [
     <>
-      <div className="text-white  LeftDiv ">
+      <div className="text-white  LeftDiv crp">
         <h2 className="mb-2 text-white">A Clearly Defined Business Model</h2>
         <p className="">
           We are focused on providing blockchain technology services to global
@@ -17,14 +17,14 @@ const Coins = ({ selectedAsset, handleAssets }) => {
           any exchange and there are no plans to open one in the future.
         </p>
       </div>
-      <div width="90%" className="RightDiv">
+      <div width="90%" className="RightDiv crp">
       <Image className="owls-image" src={FifthTabImg} alt="FifthTabImg" />
       </div>
     </>,
 
     <>
-      <div className="text-white LeftDiv">
-        <h2 className="mb-2 text-white">
+      <div className="text-white LeftDiv crp">
+        <h2 className="mb-2 text-white ">
           Deployment Options that are Flexible
         </h2>
         <p className="">
@@ -34,13 +34,13 @@ const Coins = ({ selectedAsset, handleAssets }) => {
           leveraged trades, OTC deals, contract transactions, and ETFs.
         </p>
       </div>
-      <div className="RightDiv">
+      <div className="RightDiv crp">
       <Image className="owls-image" src={SecondTabImg} alt="SecondTabImg" />
       </div>
     </>,
 
     <>
-      <div className="text-white LeftDiv">
+      <div className="text-white LeftDiv crp">
         <h2 className="text-white">Liquidity Shared Between Transactions</h2>
         <p className="">
           Our company integrates the liquidity of over 300 eco-friendly
@@ -49,13 +49,13 @@ const Coins = ({ selectedAsset, handleAssets }) => {
           for managing the liquidity of derivatives.
         </p>
       </div>
-      <div className="RightDiv texting">
+      <div className="RightDiv texting crp">
       <Image className="owls-image" src={ThirdTabImg} alt="ThirdTabImg" />
       </div>
     </>,
 
     <>
-      <div className="text-white LeftDiv ">
+      <div className="text-white LeftDiv  crp">
         <h2 className="mb-2 text-white">High Level of Safety & Risk Control</h2>
         <p className="">
           Our exchange platform offers over 30 security measures to ensure the
@@ -67,13 +67,13 @@ const Coins = ({ selectedAsset, handleAssets }) => {
           your funds.
         </p>
       </div>
-      <div className="RightDiv texting">
+      <div className="RightDiv texting crp">
       <Image className="owls-image" src={FourthTabImg} alt="FourthTabImg" />
       </div>
     </>,
 
     <>
-      <div className="LeftDiv text-white ">
+      <div className="LeftDiv text-white crp">
         <h2 className="mb-2">Service in Multiple Dimensions</h2>
         <p className="">
           We offer comprehensive support to ensure a seamless experience for our
@@ -84,7 +84,7 @@ const Coins = ({ selectedAsset, handleAssets }) => {
           any problems or feedback.
         </p>
       </div>
-      <div className="RightDiv texting">
+      <div className="RightDiv texting crp">
       <Image className="owls-image" src={FirstTabImg} alt="FirstTabImg" />
       </div>
     </>,

@@ -448,7 +448,7 @@ const AboutUs = () => {
                   target="_blank"
                   rel="noopener noreferrer"
                 >
-                  <Image className="owls-image oilso"  src={CEOImg} alt="..." />
+                  <Image className="img-fluid oilso"  src={CEOImg} alt="..." />
                 </Link>
                 <h3 className="mt-4">Ujjwal Sahay</h3>
                 <p className="paret">Founder & MD</p>

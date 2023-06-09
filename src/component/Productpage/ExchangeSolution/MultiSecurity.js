@@ -7,7 +7,7 @@ const MultiSecurity = () => {
         <div className="container">
           <div className="row">
             <div className="col-lg-6 text-white">
-              <h1 className="mb-4 texting">Security of data</h1>
+              <h1 className="mb-4 texting">Security of Data</h1>
               <div className="abouts-benifits-box mb-4">
                 <h3>Backup of data in two modes</h3>
                 <p>
@@ -50,7 +50,7 @@ const MultiSecurity = () => {
               </div>
             </div>
             <div className="col-lg-6 text-white">
-              <h1 className="mb-4 texting">Security of access</h1>
+              <h1 className="mb-4 texting">Security of Access</h1>
               <div className="abouts-benifits-box mb-4">
                 <h3>Access logs</h3>
                 <p>

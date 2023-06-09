@@ -29,15 +29,15 @@ const HeroForm = () => {
                   providing real-time trading experience to users.
                 </span>
                 <div class="d-flex  displays">
-                  <div class="mt-3 mr-5">
+                  <div class="mt-3 me-5">
                     <div class="p-1">Market Pair</div>
                     <div class="h-t-1">100+</div>
                   </div>
-                  <div class=" mt-3 mr-5">
+                  <div class=" mt-3 me-5">
                     <div class="p-1">Liquidity Venues</div>
                     <div class="h-t-1">5</div>
                   </div>
-                  <div class="mt-3 mr-5">
+                  <div class="mt-3 me-5">
                     <div class="p-1">Execution From</div>
                     <div class="h-t-1">5ms</div>
                   </div>

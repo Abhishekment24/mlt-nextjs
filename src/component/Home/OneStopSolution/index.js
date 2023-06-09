@@ -33,14 +33,14 @@ const OneStopSolution = () => {
                   <div className="one-block pink">
                     <div className="one-block-content">
                       <h2>Crypto Exchange Turnkey</h2>
-                      <p className="">
+                      <p className="onsetp">
                         Ment Tech is a pioneering company in the provision of
                         White Label Exchange Solutions. We offer comprehensive
                         information about our product offerings, risk management
                         systems, competent teams and deployment process ...
                       </p>
                       <Link href="/crypto-exchange-turnkey-solution">
-                        Learn More 
+                        Learn More
                       </Link>
                     </div>
                   </div>
@@ -51,14 +51,14 @@ const OneStopSolution = () => {
                   <div className="one-block green">
                     <div className="one-block-content">
                       <h2>Crypto Liquidity Solution</h2>
-                      <p class="mari">
+                      <p className="onsetp">
                         Liquidity refers to the ease with which an asset can be
                         converted into cash on financial markets. In the context
                         of cryptocurrencies, liquidity refers to the ease with
                         which a cryptocurrency can be bought or sold price...
                       </p>
                       <Link href="/cryptocurrency-liquidity-solution">
-                        Learn More 
+                        Learn More
                       </Link>
                     </div>
                   </div>
@@ -76,9 +76,7 @@ const OneStopSolution = () => {
                         exchanges, OTC markets are decentralized and lack
                         central authority...
                       </p>
-                      <Link href="/otc-trading-system">
-                        Learn More 
-                      </Link>
+                      <Link href="/otc-trading-system">Learn More</Link>
                     </div>
                   </div>
                 </div>

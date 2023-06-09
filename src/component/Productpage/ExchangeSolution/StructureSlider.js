@@ -17,7 +17,7 @@ const NoBank = () => {
                 the Exchange module being connected to the frontend via its Web
                 API.
               </p>
-              <Image className="" src={FirstImg} alt="" />
+              <Image className="img-fluid" src={FirstImg} alt="" />
             </div>
 
             <div class="trunsk-15 py-5">

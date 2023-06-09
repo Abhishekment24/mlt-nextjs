@@ -38,7 +38,8 @@ h1,
 h2,
 h3,
 h4,
-h5 {
+h5,
+h6 {
   font-family: "Open Sans", sans-serif !important;
   word-wrap: break-word;
   font-weight: 700;
@@ -64,7 +65,7 @@ h4 {
 }
 
 p {
-  font-size: 16px !important;
+  font-size: 18px !important;
   line-height: 25px;
 }
 .headsing {
@@ -538,7 +539,7 @@ body {
 }
 
 .headerhome ul li p {
-  font-size: 13px !important;
+  font-size: 16px !important;
 }
 
 .title-block p {
@@ -2149,7 +2150,7 @@ div.container {
   transform: translateY(-6px);
 }
 .footr {
-  font-size: 12px !important;
+  font-size: 16px !important;
 }
 .features-Label {
   padding: 2px 14px 2px;
@@ -6266,6 +6267,7 @@ a:hover.learns {
   padding-left: 25px;
   margin: 0 20px;
   font-weight: 600;
+  font-size: 15px;
 }
 
 .trunsk-16:before {
