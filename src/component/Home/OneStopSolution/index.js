@@ -68,13 +68,14 @@ const OneStopSolution = () => {
                 <div className="boxs">
                   <div className="one-block min-boxes blue margin-one">
                     <div className="one-block-content">
-                      <h2>OTC & P2P Trading Platform</h2>
+                      <h2>Bitcoin Ordinals NFT Marketplace & Wallet</h2>
                       <p className="">
-                        OTC (Over-the-Counter) deals involve a variety of assets
-                        including commodities and financial instruments like
-                        cryptocurrencies and derivatives. Unlike traditional
-                        exchanges, OTC markets are decentralized and lack
-                        central authority...
+                        Experience our comprehensive range of development
+                        solutions tailored to the Bitcoin network. Our offerings
+                        include Ordinals Launchpad, Ordinals Marketplace,
+                        Ordinals Wallet, BRC-20 Tokens, BRC20 Indexer &
+                        Explorer, BRC-721, and a host of other services,
+                        covering all aspects of the Bitcoin ecosystem.
                       </p>
                       <Link href="/otc-trading-system">Learn More</Link>
                     </div>

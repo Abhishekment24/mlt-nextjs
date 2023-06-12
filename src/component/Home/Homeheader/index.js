@@ -15,11 +15,9 @@ const HomeHeader = () => {
               <Typewriter
                 options={{
                   strings: [
-                    "Blockchain Development",
-                    "Financial Software Development",
+                    "Blockchain Development Company",
+                    "AI Development Company",
                     "Crypto Banking Solution",
-                    "Crypto Exchange Turnkey",
-                    "Consulting Service",
                   ],
                   autoStart: true,
                   loop: true,
@@ -31,11 +29,11 @@ const HomeHeader = () => {
 
             <div className="">
               <h2 className="fur tilites-heads">
-                Simple Solutions for Crypto Businesses
+                Enabling Innovation and Rapid Development
               </h2>
               <span className="tiles-spans">
-                At every level of business and scale, we offer our clients
-                cutting-edge solutions.
+                Building Revolutionary Software Solutions for Blockchain and
+                AI-Based Startups and Enterprises
               </span>
             </div>
           </div>
